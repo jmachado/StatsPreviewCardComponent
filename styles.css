@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+p, h1 {
+    color: hsl(0, 0%, 100%);
+}
+
+#left{
+    height: 20em;
+    width: 40em;
+    background-color: hsl(244, 38%, 16%);
+    padding: 5em;
+}
+
+#right{
+    height: 20em;
+    width: 40em;
+}
+
+#wrapper{
+    display: inline;
+}
