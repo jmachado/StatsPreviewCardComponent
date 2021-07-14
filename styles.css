@@ -8,16 +8,25 @@ p, h1 {
 
 #left{
     height: 20em;
-    width: 40em;
+    width: 30em;
     background-color: hsl(244, 38%, 16%);
     padding: 5em;
+    float: left;
 }
 
 #right{
-    height: 20em;
+    height: 30em;
     width: 40em;
+    float: left;
+    background-color: hsl(277, 64%, 61%);
+}
+img{
+    height: 100%;
+    width: 100%;
+    opacity: 60%;
 }
 
 #wrapper{
-    display: inline;
+    margin-top: 12%;
+    margin-left: 17%;
 }
