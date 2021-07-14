@@ -41,7 +41,7 @@ p, h1 {
     float: left;
     display: block;
     box-sizing: border-box;
-    padding: 5%;
+    padding: 5% 7%;
 }
 
 #right{
@@ -56,4 +56,31 @@ img{
     opacity: 60%;
 }
 
+.mainP{
+    color:hsla(0, 0%, 100%, 0.75);
+    margin-top: 2em;
+}
 
+.highlight{
+    color: hsl(277, 64%, 61%);
+}
+.d{
+    display: inline-block;
+    margin-top: 5em;
+}
+.a{
+    display: inline-block;
+    color: hsl(0, 0%, 100%);
+    margin-right: 2em;
+}
+.b{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.c{
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+    color:hsla(0, 0%, 100%, 0.75);
+}
